@@ -20,6 +20,7 @@ logs_and_results/*
 !logs_and_results/.gitkeep
 logs_and_results
 
+
 # 忽略临时截图（如果你之后要存图测试 LLaVA）
 *.png
 !vlm/test_frame.png
